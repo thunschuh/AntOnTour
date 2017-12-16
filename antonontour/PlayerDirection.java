@@ -1,0 +1,4 @@
+enum PlayerDirection
+{
+    LEFT, RIGHT
+};
